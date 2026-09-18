@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Talking>
   <Disable>
-    <Key Type="CallPark"/>
+    <Key Type="Call Park"/>
   </Disable>
   <Enable>
     <Key Type="Transfer"/>
