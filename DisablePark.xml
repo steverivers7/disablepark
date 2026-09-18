@@ -2,7 +2,6 @@
 <Talking>
   <Disable>
     <Key Type="Park"/>
-    <Key Type="Empty"/>
   </Disable>
   <Enable>
     <Key Type="Transfer"/>
