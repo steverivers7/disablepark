@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Talking>
+  <Disable>
+    <Key Type="Park"/>
+    <Key Type="Empty"/>
+  </Disable>
+  <Enable>
+    <Key Type="Transfer"/>
+    <Key Type="Hold"/>
+    <Key Type="Conference"/>
+    <Key Type="EndCall"/>
+  </Enable>
+  <Default>
+    <Key Type="Transfer"/>
+    <Key Type="Hold"/>
+    <Key Type="Conference"/>
+    <Key Type="EndCall"/>
+  </Default>
+</Talking>
